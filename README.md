@@ -1,5 +1,5 @@
 # COVID-19 Tracker
-![COVID-19 Tracker](images.githubusercontent.com/65452499/82132788-2b799900-9801-11ea-99e5-442744396112.png)
+![COVID-19 Tracker](https://images.githubusercontent.com/65452499/82132788-2b799900-9801-11ea-99e5-442744396112.png)
 
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
