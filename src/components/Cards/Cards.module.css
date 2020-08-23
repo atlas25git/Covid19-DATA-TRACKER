@@ -3,14 +3,14 @@
   flex-direction: column;
   align-items: center;
   margin: 50px 0;
-  background-color: rgb(235, 131, 52);
+  
 }
 
 .card {
   margin: 0 2% !important;
 }
 
-.infected {
+.infected {background-color: rgb(235, 131, 52);
   border-bottom: 10px solid rgba(0, 0, 255, 0.5);
 }
 
@@ -18,7 +18,7 @@
   border-bottom: 10px solid rgba(0, 255, 0, 0.5);
 }
 
-.deaths{
+.deaths{background-color: rgb(9, 186, 65);
   border-bottom: 10px solid rgba(255, 0, 0, 0.5);
 }
 
