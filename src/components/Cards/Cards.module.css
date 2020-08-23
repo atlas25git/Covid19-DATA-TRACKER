@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   margin: 50px 0;
+  background-color: rgb(235, 131, 52);
 }
 
 .card {
